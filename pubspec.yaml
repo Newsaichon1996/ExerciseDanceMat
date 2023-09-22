@@ -1,0 +1,40 @@
+name: app_exercise
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  animate_do: ^3.0.2
+  csv: ^5.0.2
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  lottie: ^2.3.2
+  permission_handler: ^11.0.0
+  provider: ^6.0.5
+  sqflite: ^2.2.8+4
+  syncfusion_flutter_charts: ^20.4.52
+  video_player: ^2.7.1
+  flutter_blue_plus: ^1.15.8
+  flutter_blue: ^0.8.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/lotties/
+    - assets/svgs/
+    - assets/sounds/
+    - assets/csv/
+    - assets/videos/
+    - assets/videos/MP4/

@@ -1,1 +1,3 @@
-# ExerciseDanceMat
+# app_exercise
+
+A new Flutter project.
